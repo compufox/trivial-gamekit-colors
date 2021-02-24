@@ -23,7 +23,7 @@
            +PaleGreen+ +PaleTurquoise+ +PaleVioletRed+ +PapayaWhip+ +PeachPuff+ +Peru+ +Pink+ +Plum+
            +PowderBlue+ +Purple+ +RebeccaPurple+ +Red+ +RosyBrown+ +RoyalBlue+ +SaddleBrown+ +Salmon+
            +SandyBrown+ +SeaGreen+ +SeaShell+ +Sienna+ +Silver+ +SkyBlue+ +SlateBlue+ +SlateGray+
-           +SlateGrey+ +Snow+ +SpringGreen+ +SteelBlue+ +Tan+ +Teal+ +Thistle+ +Tomato+ +Turquoise+
-           +Violet+ +Wheat+ +White+ +WhiteSmoke+ +Yellow+ +YellowGreen+
+           +SlateGrey+ +Snow+ +SpringGreen+ +SteelBlue+ +Tan+ +Teal+ +Thistle+ +Tomato+ +Transparent+
+           +Turquoise+ +Violet+ +Wheat+ +White+ +WhiteSmoke+ +Yellow+ +YellowGreen+
 
            :hex-to-vec4))

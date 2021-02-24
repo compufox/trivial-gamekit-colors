@@ -75,5 +75,6 @@
   (SlateGray "708090") (SlateGrey "708090") (Snow "FFFAFA")
   (SpringGreen "00FF7F") (SteelBlue "4682B4") (Tan "D2B48C")
   (Teal "008080") (Thistle "D8BFD8") (Tomato "FF6347")
-  (Turquoise "40E0D0") (Violet "EE82EE") (Wheat "F5DEB3")
+  (Transparent "00000000") (Turquoise "40E0D0")
+  (Violet "EE82EE") (Wheat "F5DEB3")
   (White "FFFFFF") (WhiteSmoke "F5F5F5") (Yellow "FFFF00") (YellowGreen "9ACD32"))
